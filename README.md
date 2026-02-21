@@ -127,7 +127,7 @@ Password: 1234
 
 ## 10. Screenshots
 
-Screenshots of the application are available in the `screenshots zipfile`
+Screenshots of the application are available in the `Screenshot` folder.
 
 - Login Page
 - Main Dashboard
