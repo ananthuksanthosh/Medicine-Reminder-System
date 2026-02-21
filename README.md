@@ -120,8 +120,8 @@ Main Fields:
 
 ### Login Credentials
 
-Username: admin  
-Password: 1234  
+Username: user
+Password: 123
 
 ---
 
